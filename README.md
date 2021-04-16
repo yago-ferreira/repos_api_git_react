@@ -1,6 +1,6 @@
-## Imagem do projeto.
+## Vídeo do projeto.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/54941268/113515121-f07f7180-9548-11eb-8c9c-e2d46365d61a.PNG" /><br>
+https://user-images.githubusercontent.com/54941268/114966346-bff0df00-9e48-11eb-979a-822062018bb4.mp4<br>
 </p>
 
 ## Documentação da API utilizada
@@ -34,6 +34,10 @@ Executa o aplicativo no modo de desenvolvimento. \
 A página será recarregada se você fizer edições. \
 Você também verá quaisquer erros de lint no console.
 
+## INSTRUTOR
+Matheus Fraga
+Curso: React Js do zero ao avançado na pratica
+Plataforma: Udemy
 
 ## Autor
 
